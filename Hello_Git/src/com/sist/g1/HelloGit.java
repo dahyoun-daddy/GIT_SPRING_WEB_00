@@ -1,4 +1,4 @@
-package com.sist;
+package com.sist.g1;
 
 public class HelloGit {
 
