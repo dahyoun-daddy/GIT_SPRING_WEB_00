@@ -19,7 +19,7 @@ public class HelloGit6 {
 		System.out.println("3*************************");
 		System.out.println("3*************************");
 		System.out.println("3*************************");
->>>>>>> 052b1d7 00000
+
 	}
 
 }
