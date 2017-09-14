@@ -17,6 +17,8 @@ public class HelloGit3 {
 		System.out.println("스트레스");
 
 		System.out.println("00000000000000000");
+		
+		System.out.println("-====conflict====-");
 
 	}
 
