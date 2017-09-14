@@ -6,6 +6,11 @@ public class HelloGit {
 		// TODO Auto-generated method stub
   //james 추가
 		System.out.println("0000000000000");
+		
+		
+		System.out.println("0000000000000");
+		System.out.println("0000000000000");
+		System.out.println("0000000000000");
 	}
 
 }
