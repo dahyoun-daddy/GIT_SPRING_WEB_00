@@ -4,7 +4,7 @@ public class HelloGit3 {
 
 	public static void main(String[] args) {		
 		System.out.println("홍준석입니다.");
-		System.out.println("쫑이 날까요?");
+		System.out.println("홍준석입니다2.");
 	}
 
 }
