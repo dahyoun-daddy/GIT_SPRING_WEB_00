@@ -11,6 +11,11 @@ public class HelloGit {
 		System.out.println("0000000000000");
 		System.out.println("0000000000000");
 		System.out.println("0000000000000");
+		
+		
+		System.out.println("11111111111111");
+		System.out.println("0000000000000");
+		System.out.println("0000000000000");		
 	}
 
 }
