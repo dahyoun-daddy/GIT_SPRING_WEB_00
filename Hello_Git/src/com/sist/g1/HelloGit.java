@@ -14,5 +14,9 @@ public class HelloGit {
 		System.out.println("8*************************");
 		System.out.println("8*************************");		
 	}
+	
+	public void func1() {
+		
+	}
 
 }
