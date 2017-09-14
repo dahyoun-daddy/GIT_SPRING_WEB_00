@@ -8,6 +8,11 @@ public class HelloGit6 {
 		System.out.println("hihi");
 		System.out.println("*************************");
 		System.out.println("2*************************"); 
+		
+		System.out.println("2*************************"); 
+		System.out.println("2*************************"); 
+		System.out.println("2*************************"); 
+		System.out.println("2*************************"); 
 	}
 
 }
