@@ -13,7 +13,11 @@ public class HelloGit3 {
 		System.out.println("jjong4");
 		//두줄
 		System.out.println("1111111111111");
+
+		System.out.println("스트레스");
+
 		System.out.println("00000000000000000");
+
 	}
 
 }
