@@ -20,6 +20,9 @@ public class HelloGit6 {
 		System.out.println("3*************************");
 		System.out.println("3*************************");
 
+		System.out.println("8*************************");
+		System.out.println("8*************************");
+		System.out.println("8*************************");
 	}
 
 }

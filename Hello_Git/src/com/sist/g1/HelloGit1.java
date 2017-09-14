@@ -10,7 +10,9 @@ public class HelloGit1 {
 		System.out.println("2hihi");
 		System.out.println("j2hihi");
 		System.out.println("j3hihi");
-		
+		System.out.println("8*************************");
+		System.out.println("8*************************");
+		System.out.println("8*************************");
 		//-------------------------------
 		//9999999999999999999999999999999
 		//-------------------------------

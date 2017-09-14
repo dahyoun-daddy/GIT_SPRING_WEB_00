@@ -6,5 +6,8 @@ public class HelloGit {
 		// TestCase 1
 		// TestCase 2
 	}
-
-}
+    //
+	public void gitConflictFunction() {
+		
+	}
+}  
