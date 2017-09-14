@@ -7,6 +7,7 @@ public class HelloGit3 {
 		System.out.println("홍준석입니다2.");
 		System.out.println("홍준석입니다3.");
 		System.out.println("jjong");
+		//두줄
 		  
 	}
 
