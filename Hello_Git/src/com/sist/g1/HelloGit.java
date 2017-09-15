@@ -13,6 +13,10 @@ public class HelloGit {
 		System.out.println("8*************************");
 		System.out.println("8*************************");
 		System.out.println("8*************************");		
+		
+		System.out.println("^^************************^^");
+		System.out.println("^^************************^^");
+		System.out.println("^^************************^^");
 	}
 	
 	public void func1() {
