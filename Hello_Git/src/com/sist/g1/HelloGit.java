@@ -17,10 +17,12 @@ public class HelloGit {
 		System.out.println("^^************************^^");
 		System.out.println("^^************************^^");
 		System.out.println("^^************************^^");
+		
+		System.out.println("112323222");
 	}
 	
 	public void func1() {
-		
+		System.out.println("112323222");
 	} 
 
 }
